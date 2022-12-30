@@ -8,10 +8,10 @@
 <h3>
     <strong>
     This is Repository to prepare for coding test
+    <img src = "https://secretseoul.com/wp-content/uploads/2022/09/shutterstock_2129852786-1-1024x671.jpg">
     <strong>
 </h3>
 
-![](./2023.jpeg)
 
 
 
