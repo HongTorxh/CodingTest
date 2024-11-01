@@ -17,3 +17,4 @@ for nums in range(1000001):
 
         elif j == len(nums) - 1:
             result = min(result, abs(int(nums) - n) + len(nums))
+print(result)
