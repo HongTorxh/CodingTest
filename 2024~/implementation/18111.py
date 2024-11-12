@@ -7,6 +7,7 @@ blocks = []
 for i in range(row):
     blocks += list(map(int, input().split()))
 
+
 min_time = 500*500*2*257
 ans_height = blocks[0]
 blocks_out = sum(blocks)
